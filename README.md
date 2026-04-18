@@ -10,4 +10,6 @@ Google Colabからのアップロードテスト
 
 3. `[ファイル] > [GitHub にコピーを保存]`を開き、1.で作成したリポジトリを選択する。（ファイルパスを変更する必要はない）
    コミットメッセージの入力は任意。`OK`をクリックすると、GitHubにプッシュされる。
-<img width="755" height="493" alt="pic3" src="https://github.com/user-attachments/assets/12389b0b-8083-4398-830f-6d7f44817bce" />
+<img width="755" height="493" alt="pic3" src="https://github.com/user-attachments/assets/12389b0b-8083-4398-830f-6d7f44817bce" /></br>
+
+4. 2回目以降も同様の手順で、Colabでの作業内容をGitHubに反映させることができる。
